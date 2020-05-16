@@ -63,7 +63,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
 
     public class MyViewHolder extends RecyclerView.ViewHolder {
 
-        TextView myText1, myText2;
+        TextView myText1, myText2, mytext3, mytest4;
         ImageView myImage;
         ConstraintLayout mainLayout;
 

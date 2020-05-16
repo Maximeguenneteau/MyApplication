@@ -18,7 +18,7 @@ public class Main2Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main2);
+        setContentView(R.layout.row_adapter2);
         imageView2 = findViewById(R.id.imageView2);
         textView3 = findViewById(R.id.textView3);
         textView4 = findViewById(R.id.textView4);
